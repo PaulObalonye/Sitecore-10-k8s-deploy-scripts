@@ -1,4 +1,4 @@
-# The Sitecore Swiss Army Knife "All in one" script for deploying Sitecore 10  into Azure AKS
+# The Sitecore "All in one" script for deploying Sitecore 10  into Azure AKS
 
 ## Installing prerequisite software
 
